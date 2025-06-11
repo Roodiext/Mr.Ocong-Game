@@ -24,7 +24,7 @@ Semakin lama kamu bertahan, skor kamu akan makin tinggi 🔥
 
 | Halaman Awal                      | Gameplay                        |
 |----------------------------------|---------------------------------|
-| <img src="assets/p1.jpg" width="250"/> | <img src="assets/p2.jpg" width="250"/> |
+| <img src="assets/p1.png" width="250"/> | <img src="assets/p2.png" width="250"/> |
 
 ---
 
