@@ -2,8 +2,8 @@
 
 Sebuah game 2D seru yang dibuat dengan **Phaser 3**, di mana kamu mengendalikan Ocong dan harus **menghindari kristal mematikan** yang datang dari sisi kanan layar!
 
-> 💥 Tujuannya? **Bertahan selama mungkin tanpa menabrak kristal!**  
-> 🎯 YUK RAIH SKOR TERTINGGIMU!
+💥 Tujuannya? **Bertahan selama mungkin tanpa menabrak kristal!**  
+🎯 YUK RAIH SKOR TERTINGGIMU!
 
 🔗 **Mainkan sekarang di:**  
 [👉 https://roodiext.github.io/Mr.Ocong-Game/](https://roodiext.github.io/Mr.Ocong-Game/)
